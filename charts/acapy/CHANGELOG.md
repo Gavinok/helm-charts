@@ -1,3 +1,9 @@
+## 0.3.0 (2026-03-24)
+
+### Features
+
+* **acapy:** Add flag to disable wallet seed secret creation and env var mounting ([#37](https://github.com/Gavinok/helm-charts/issues/37)) ([12b75b0](https://github.com/Gavinok/helm-charts/commit/12b75b054957fae71caae0d3c746d177e3647c1c))
+* **acapy:** remove deprecated bitnami helper function references ([#38](https://github.com/Gavinok/helm-charts/issues/38)) ([8a146f8](https://github.com/Gavinok/helm-charts/commit/8a146f8671a418c1e54d8c7c309957d694f60ebd))
 ##  (2025-09-15)
 
 ### Features
