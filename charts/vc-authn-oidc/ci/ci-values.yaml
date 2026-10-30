@@ -13,3 +13,6 @@ acapy:
 mongodb:
   persistence:
     enabled: false
+  # MongoDB 8.x does not start on the 6.19+ kernel used by GitHub runners (SERVER-121912)
+  image:
+    tag: "7.0"
